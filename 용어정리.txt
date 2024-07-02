@@ -1,0 +1,4 @@
+html
+-> hyper, text, markup, language
+
+: 태그로 작성하면 그대로 해석 되어 화면 표시
